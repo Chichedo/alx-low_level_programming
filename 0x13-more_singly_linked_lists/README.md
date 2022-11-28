@@ -5,4 +5,11 @@
 4-free_listint.c: writes a function that frees a listint_t list.
 5-free_listint2.c: a function that frees a listint_t list.
 6-pop_listint.c: writes a function that deletes the head node of a listint_t linked list, and returns the head node’s data (n).
-7-get_nodei: writes a function that returns the nth node of a listint_t linked list.
+7-get_nodeint.c: writes a function that returns the nth node of a listint_t linked list.
+8-sum_listint.c: writes a function that returns the sum of all the data (n) of a listint_t linked list.
+9-insert_nodeint.c: writes a function that inserts a new node at a given position.
+10-delete_nodeint.c: writes a function that deletes the node at index index of a listint_t linked list.
+100-reverse_listint.c: writes a function that reverses a listint_t linked list.
+101-print_listint_safe.c: writes a function that prints a listint_t linked list.
+102-free_listint_safe.c: writes a function that frees a listint_t list.
+103-find_loop.c: writes a function that finds the loop in a linked list.
